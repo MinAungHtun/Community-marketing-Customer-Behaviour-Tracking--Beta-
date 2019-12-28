@@ -4,3 +4,4 @@ The website is still raw and not furnished enough to be used
 Scripts are usable
 You need to add hashing algorithm for password
 Test scripts are for learning and theoretical purposes only
+These are also not protected against SQL injection and cross site scripting
