@@ -1,0 +1,3 @@
+Other databases are in their repectives folders in the SAL Assignment folder.
+It is better to reconstruct the whole database using sql codes.
+Imports/Exports might raise problems.
